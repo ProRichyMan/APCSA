@@ -8,7 +8,7 @@ permalink: /techtalk/spring_thymeleaf
 image: /images/spring_thymeleaf.png
 ---
 
-## Tour of Frontend
+## Tour of Frontend (CHANGE)
 
 <div>
     <div>
